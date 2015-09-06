@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="content" method="upgrade">
+	<name>Content - Linkr</name>
+	<version>2.3.9</version>
+	<creationDate>April 2008</creationDate>
+	<author>Frank</author>
+	<authorUrl>http://j.l33p.com/linkr</authorUrl>
+	<license>http://www.gnu.org/licenses/gpl.html (GNU/GPL)</license>
+	<description>Linkr Plugin</description>
+	<files>
+		<filename plugin="linkr_content">linkr_content.php</filename>
+	</files>
+</install>
